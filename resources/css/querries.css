@@ -1,0 +1,30 @@
+
+/*for wider screen*/
+
+@media only screen and(max-width:1500px){
+    header{
+        width: 100%;
+    }
+
+}
+
+/*Big tablet 1024px to 1200px*/
+@media only screen and(max-width:1200px){
+    
+}
+
+
+/*tablet 768 to 1023*/
+@media only screen and(max-width:1023px){
+    
+}
+
+/*phone to Small tablet 481px to 767px*/
+@media only screen and(max-width:767px){
+    
+}
+/*Small phone 0px to 480px*/
+
+@media only screen and(max-width:480px){
+
+}
